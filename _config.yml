@@ -2,6 +2,7 @@ name: Accurro AS
 favicon: null
 layout_spectrum: 0.7345102613326162
 typography_spectrum: 0.23798073595389724
+title: Accurro
 cta:
   domain: null
   bucket: null
