@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Accurro AS]]></title>
+        <description><![CDATA[Accurro AS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 13:28:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rap against Crap - Pimp our city! Mixed media campaign]]></title>
+            <description><![CDATA[<article><h1>Rap against Crap - Pimp our city! Mixed media campaign</h1><p></p></article>]]></description>
+            <link>undefinedrap-against-crap-pimp-our-city-mixed-media-campaign/index.html</link>
+            <guid isPermaLink="false">69761ac8-6774-47eb-a547-c7b7b39b17cc</guid>
+            <pubDate>Mon, 11 Apr 2016 13:28:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
