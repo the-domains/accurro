@@ -1,0 +1,28 @@
+name: Accurro AS
+favicon: null
+layout_spectrum: 0.7345102613326162
+typography_spectrum: 0.23798073595389724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9107046716380864
+  lightness: 0.8117115430068225
+  saturation: 0.3195133237168193
+  rhythmicContrast: 0.8765499736182392
+purpose: []
